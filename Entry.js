@@ -1,3 +1,5 @@
+//entry point 
+
 let LinkedList=require('./LinkedList');
 let Tree=require('./Tree');
 let Graph=require('./Graph');
